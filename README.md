@@ -1,3 +1,4 @@
+
 def draw_square(size, symbol):
     for i in range(size):
         for j in range(size):
@@ -120,4 +121,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()ading work.py…]()
